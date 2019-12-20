@@ -1,2 +1,2 @@
 # Arduino
-# Sensor iplementation codes for Arduino based microprocessors.
+Sensor iplementation codes for Arduino based microprocessors.
